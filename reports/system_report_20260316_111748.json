@@ -1,0 +1,28 @@
+{
+    "timestamp": "2026-03-16T11:17:47.576344",
+    "cpu_usage_percent": 21.9,
+    "memory_usage_percent": 82.8,
+    "disk_usage_percent": 4.1,
+    "top_processes": [
+        {
+            "name": "loginwindow",
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "distnoted",
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "cfprefsd",
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "UserEventAgent",
+            "cpu_percent": 0.0
+        },
+        {
+            "name": "universalaccessd",
+            "cpu_percent": 0.0
+        }
+    ]
+}
